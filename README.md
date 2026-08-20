@@ -16,11 +16,11 @@ Start with the system overview, then read the application breakdowns, communicat
 
 ## Daily System Design Cron Job
 
-This repo is updated automatically once a day at **06:00 local time** by a Windows scheduled task.
+This repo is updated automatically once a day at **17:00 IST** by a Windows scheduled task.
 
 - **Script:** [`scripts/daily_system_designer.py`](./scripts/daily_system_designer.py)
 - **Task:** `SystemBuildPlanner Daily Designer`
-- **Schedule:** Daily at 06:00
+- **Schedule:** Daily at 17:00 IST (17:00 local time)
 
 Each run creates a new system design folder under `systems/` with:
 
