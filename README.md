@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W01-L01-D006-markdown-tagger` | Markdown Tagger | Level 1 — Single-function tool or script | Planned |
 | `systems/W01-L01-D005-expense-recorder` | Expense Recorder | Level 1 — Single-function tool or script | Planned |
 | `systems/W01-L01-D004-expense-recorder` | Expense Recorder | Level 1 — Single-function tool or script | Planned |
 | `systems/W01-L01-D003-book-note-taker` | Book Note Taker | Level 1 — Single-function tool or script | Planned |
