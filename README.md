@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W02-L02-D009-tweet-generator` | Tweet Generator | Level 2 — Simple CLI app with one AI workflow | Planned |
 | `systems/W02-L02-D008-reading-time-estimator` | Reading Time Estimator | Level 2 — Simple CLI app with one AI workflow | Planned |
 | `systems/W01-L01-D006-markdown-tagger` | Markdown Tagger | Level 1 — Single-function tool or script | Planned |
 | `systems/W01-L01-D005-expense-recorder` | Expense Recorder | Level 1 — Single-function tool or script | Planned |
