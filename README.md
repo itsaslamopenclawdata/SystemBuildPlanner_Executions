@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W02-L02-D013-code-commenter` | Code Commenter | Level 2 — Simple CLI app with one AI workflow | Planned |
 | `systems/W02-L02-D012-documentation-translator` | Documentation Translator | Level 2 — Simple CLI app with one AI workflow | Planned |
 | `systems/W02-L02-D011-smart-note-summarizer` | Smart Note Summarizer | Level 2 — Simple CLI app with one AI workflow | Planned |
 | `systems/W02-L02-D009-tweet-generator` | Tweet Generator | Level 2 — Simple CLI app with one AI workflow | Planned |
