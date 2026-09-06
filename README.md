@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W03-L03-D018-customer-feedback-synthesizer` | Customer Feedback Synthesizer | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W03-L03-D016-blog-post-pipeline` | Blog Post Pipeline | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W03-L03-D015-api-docs-builder` | API Docs Builder | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W02-L02-D014-bug-report-classifier` | Bug Report Classifier | Level 2 — Simple CLI app with one AI workflow | Planned |
