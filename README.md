@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W03-L03-D020-decision-helper` | Decision Helper | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W03-L03-D019-decision-helper` | Decision Helper | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W03-L03-D018-customer-feedback-synthesizer` | Customer Feedback Synthesizer | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W03-L03-D016-blog-post-pipeline` | Blog Post Pipeline | Level 3 — Multi-step AI workflow | Planned |
