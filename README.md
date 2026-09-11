@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W04-L04-D023-security-review-agent` | Security Review Agent | Level 4 — Single-agent system | Planned |
 | `systems/W04-L04-D022-code-explainer-agent` | Code Explainer Agent | Level 4 — Single-agent system | Planned |
 | `systems/W03-L03-D020-decision-helper` | Decision Helper | Level 3 — Multi-step AI workflow | Planned |
 | `systems/W03-L03-D019-decision-helper` | Decision Helper | Level 3 — Multi-step AI workflow | Planned |
