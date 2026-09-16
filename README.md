@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W04-L04-D028-architecture-review-agent` | Architecture Review Agent | Level 4 — Single-agent system | Planned |
 | `systems/W04-L04-D027-security-review-agent` | Security Review Agent | Level 4 — Single-agent system | Planned |
 | `systems/W04-L04-D026-doc-update-agent` | Doc Update Agent | Level 4 — Single-agent system | Planned |
 | `systems/W04-L04-D025-code-explainer-agent` | Code Explainer Agent | Level 4 — Single-agent system | Planned |
