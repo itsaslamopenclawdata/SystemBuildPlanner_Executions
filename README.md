@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W05-L05-D033-design-critique-crew` | Design Critique Crew | Level 5 — Multi-agent system with shared memory | Planned |
 | `systems/W05-L05-D030-customer-support-crew` | Customer Support Crew | Level 5 — Multi-agent system with shared memory | Planned |
 | `systems/W05-L05-D029-onboarding-crew` | Onboarding Crew | Level 5 — Multi-agent system with shared memory | Planned |
 | `systems/W04-L04-D028-architecture-review-agent` | Architecture Review Agent | Level 4 — Single-agent system | Planned |
