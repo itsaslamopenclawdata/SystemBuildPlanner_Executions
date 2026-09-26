@@ -54,6 +54,7 @@ The goal is to practice architecture documentation daily, starting from very sim
 
 | Folder | System | Level | Status |
 |---|---|---|---|
+| `systems/W06-L06-D038-bookmark-manager-api` | Bookmark Manager API | Level 6 — API + database system | Planned |
 | `systems/W06-L06-D037-flashcard-api` | Flashcard API | Level 6 — API + database system | Planned |
 | `systems/W06-L06-D036-personal-knowledge-api` | Personal Knowledge API | Level 6 — API + database system | Planned |
 | `systems/W05-L05-D035-project-planning-crew` | Project Planning Crew | Level 5 — Multi-agent system with shared memory | Planned |
